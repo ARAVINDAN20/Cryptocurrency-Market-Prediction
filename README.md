@@ -1,4 +1,6 @@
-# Cryptocurrency Market Prediction
+# Cryptocurrency Market Prediction 
+<img src="https://github.com/user-attachments/assets/22b6f21d-2aa6-46c9-ba82-27886ee21b6f" alt="" width="200" height="200">
+
 
 This project aims to predict the cryptocurrency market trends using machine learning algorithms. The project is implemented using Python and Streamlit for the GUI.
 ![image](https://github.com/user-attachments/assets/644041dc-1058-4204-8126-e8abbf31b078)
